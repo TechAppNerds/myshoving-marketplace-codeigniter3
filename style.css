@@ -1,0 +1,42 @@
+fieldset {
+	border: 1px solid #DDDDDD;
+	display: inline-block;
+	font-size: 14px;
+	padding: 1em 2em;
+}
+
+legend {
+	background: #3407F9;
+	color: #FFFFFF;
+	margin-bottom: 10px;
+	padding: 0.5em 1em;
+}
+
+legend2 {
+	background: #88F903;
+	color: #FFFFFF;
+	margin-bottom: 10px;
+	padding: 0.5em 1em;
+}
+
+/* DESAIN INPUT FIELD */
+
+label {
+	color: #666666;
+	display: block;
+	font-size: 12px;
+}
+
+input[type="text"] {
+	border: none;
+	border-bottom: 1px solid #DDDDDD;
+	font-size: 14px;
+	margin-bottom: 15px;
+	padding: 0.5em 1em 0.5em 0;
+	width: 160px;
+}
+
+input[type="text"]:focus {
+	border-bottom: 1px solid #3407F9;     /* Border blue saat focus */
+	outline: none;
+}

@@ -1,0 +1,116 @@
+[12-Jul-2020 04:19:41 UTC] PHP Parse error:  syntax error, unexpected 'private' (T_PRIVATE) in /home/myshovin/public_html/application/controllers/Reseller.php on line 1006
+[12-Jul-2020 04:19:41 UTC] PHP Parse error:  syntax error, unexpected 'private' (T_PRIVATE) in /home/myshovin/public_html/application/controllers/Reseller.php on line 1006
+[12-Jul-2020 04:19:41 UTC] PHP Parse error:  syntax error, unexpected 'private' (T_PRIVATE) in /home/myshovin/public_html/application/controllers/Reseller.php on line 1006
+[12-Jul-2020 04:19:41 UTC] PHP Parse error:  syntax error, unexpected 'private' (T_PRIVATE) in /home/myshovin/public_html/application/controllers/Reseller.php on line 1006
+[12-Jul-2020 04:19:41 UTC] PHP Parse error:  syntax error, unexpected 'private' (T_PRIVATE) in /home/myshovin/public_html/application/controllers/Reseller.php on line 1006
+[12-Jul-2020 04:19:41 UTC] PHP Parse error:  syntax error, unexpected 'private' (T_PRIVATE) in /home/myshovin/public_html/application/controllers/Reseller.php on line 1006
+[12-Jul-2020 04:19:41 UTC] PHP Parse error:  syntax error, unexpected 'private' (T_PRIVATE) in /home/myshovin/public_html/application/controllers/Reseller.php on line 1006
+[12-Jul-2020 04:19:41 UTC] PHP Parse error:  syntax error, unexpected 'private' (T_PRIVATE) in /home/myshovin/public_html/application/controllers/Reseller.php on line 1006
+[12-Jul-2020 04:19:41 UTC] PHP Parse error:  syntax error, unexpected 'private' (T_PRIVATE) in /home/myshovin/public_html/application/controllers/Reseller.php on line 1006
+[12-Jul-2020 04:19:42 UTC] PHP Parse error:  syntax error, unexpected 'private' (T_PRIVATE) in /home/myshovin/public_html/application/controllers/Reseller.php on line 1006
+[12-Jul-2020 04:19:46 UTC] PHP Parse error:  syntax error, unexpected 'private' (T_PRIVATE) in /home/myshovin/public_html/application/controllers/Reseller.php on line 1006
+[12-Jul-2020 11:21:09 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/myshovin/public_html/application/controllers/Reseller.php on line 336
+[12-Jul-2020 16:23:14 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/myshovin/public_html/application/controllers/Members.php on line 140
+[12-Jul-2020 16:29:02 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/myshovin/public_html/application/controllers/Members.php on line 106
+[12-Jul-2020 17:01:12 UTC] PHP Parse error:  syntax error, unexpected ''' (T_ENCAPSED_AND_WHITESPACE), expecting ']' in /home/myshovin/public_html/application/controllers/Members.php on line 74
+[15-Jul-2020 15:10:35 UTC] PHP Parse error:  syntax error, unexpected ';' in /home/myshovin/public_html/application/controllers/Members.php on line 243
+[15-Jul-2020 17:00:55 UTC] PHP Parse error:  syntax error, unexpected ';' in /home/myshovin/public_html/application/controllers/Members.php on line 243
+[17-Jul-2020 07:03:28 UTC] PHP Parse error:  syntax error, unexpected ')' in /home/myshovin/public_html/application/controllers/Reseller.php on line 124
+[17-Jul-2020 07:03:28 UTC] PHP Parse error:  syntax error, unexpected ')' in /home/myshovin/public_html/application/controllers/Reseller.php on line 124
+[17-Jul-2020 07:03:28 UTC] PHP Parse error:  syntax error, unexpected ')' in /home/myshovin/public_html/application/controllers/Reseller.php on line 124
+[17-Jul-2020 07:03:29 UTC] PHP Parse error:  syntax error, unexpected ')' in /home/myshovin/public_html/application/controllers/Reseller.php on line 124
+[17-Jul-2020 07:03:29 UTC] PHP Parse error:  syntax error, unexpected ')' in /home/myshovin/public_html/application/controllers/Reseller.php on line 124
+[17-Jul-2020 07:03:29 UTC] PHP Parse error:  syntax error, unexpected ')' in /home/myshovin/public_html/application/controllers/Reseller.php on line 124
+[17-Jul-2020 07:03:29 UTC] PHP Parse error:  syntax error, unexpected ')' in /home/myshovin/public_html/application/controllers/Reseller.php on line 124
+[17-Jul-2020 07:03:29 UTC] PHP Parse error:  syntax error, unexpected ')' in /home/myshovin/public_html/application/controllers/Reseller.php on line 124
+[17-Jul-2020 07:03:29 UTC] PHP Parse error:  syntax error, unexpected ')' in /home/myshovin/public_html/application/controllers/Reseller.php on line 124
+[17-Jul-2020 07:03:29 UTC] PHP Parse error:  syntax error, unexpected ')' in /home/myshovin/public_html/application/controllers/Reseller.php on line 124
+[17-Jul-2020 07:17:25 UTC] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in /home/myshovin/public_html/application/controllers/Reseller.php on line 136
+[17-Jul-2020 07:17:25 UTC] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in /home/myshovin/public_html/application/controllers/Reseller.php on line 136
+[17-Jul-2020 07:17:25 UTC] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in /home/myshovin/public_html/application/controllers/Reseller.php on line 136
+[17-Jul-2020 07:17:25 UTC] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in /home/myshovin/public_html/application/controllers/Reseller.php on line 136
+[17-Jul-2020 07:17:25 UTC] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in /home/myshovin/public_html/application/controllers/Reseller.php on line 136
+[17-Jul-2020 07:17:25 UTC] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in /home/myshovin/public_html/application/controllers/Reseller.php on line 136
+[17-Jul-2020 07:17:25 UTC] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in /home/myshovin/public_html/application/controllers/Reseller.php on line 136
+[17-Jul-2020 07:17:25 UTC] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in /home/myshovin/public_html/application/controllers/Reseller.php on line 136
+[17-Jul-2020 07:17:25 UTC] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in /home/myshovin/public_html/application/controllers/Reseller.php on line 136
+[17-Jul-2020 07:17:25 UTC] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in /home/myshovin/public_html/application/controllers/Reseller.php on line 136
+[17-Jul-2020 07:17:25 UTC] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in /home/myshovin/public_html/application/controllers/Reseller.php on line 136
+[17-Jul-2020 07:17:26 UTC] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in /home/myshovin/public_html/application/controllers/Reseller.php on line 136
+[17-Jul-2020 07:17:26 UTC] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in /home/myshovin/public_html/application/controllers/Reseller.php on line 136
+[17-Jul-2020 07:17:26 UTC] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in /home/myshovin/public_html/application/controllers/Reseller.php on line 136
+[17-Jul-2020 07:17:26 UTC] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in /home/myshovin/public_html/application/controllers/Reseller.php on line 136
+[17-Jul-2020 07:17:26 UTC] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in /home/myshovin/public_html/application/controllers/Reseller.php on line 136
+[17-Jul-2020 07:17:26 UTC] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in /home/myshovin/public_html/application/controllers/Reseller.php on line 136
+[17-Jul-2020 07:17:26 UTC] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in /home/myshovin/public_html/application/controllers/Reseller.php on line 136
+[17-Jul-2020 07:17:26 UTC] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in /home/myshovin/public_html/application/controllers/Reseller.php on line 136
+[17-Jul-2020 07:17:26 UTC] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in /home/myshovin/public_html/application/controllers/Reseller.php on line 136
+[17-Jul-2020 07:17:26 UTC] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in /home/myshovin/public_html/application/controllers/Reseller.php on line 136
+[17-Jul-2020 07:17:26 UTC] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in /home/myshovin/public_html/application/controllers/Reseller.php on line 136
+[17-Jul-2020 07:17:26 UTC] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in /home/myshovin/public_html/application/controllers/Reseller.php on line 136
+[17-Jul-2020 07:17:26 UTC] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in /home/myshovin/public_html/application/controllers/Reseller.php on line 136
+[17-Jul-2020 07:17:26 UTC] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in /home/myshovin/public_html/application/controllers/Reseller.php on line 136
+[17-Jul-2020 07:17:26 UTC] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in /home/myshovin/public_html/application/controllers/Reseller.php on line 136
+[17-Jul-2020 07:17:26 UTC] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in /home/myshovin/public_html/application/controllers/Reseller.php on line 136
+[17-Jul-2020 07:17:26 UTC] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in /home/myshovin/public_html/application/controllers/Reseller.php on line 136
+[17-Jul-2020 07:17:26 UTC] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in /home/myshovin/public_html/application/controllers/Reseller.php on line 136
+[17-Jul-2020 07:17:26 UTC] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in /home/myshovin/public_html/application/controllers/Reseller.php on line 136
+[17-Jul-2020 07:17:26 UTC] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in /home/myshovin/public_html/application/controllers/Reseller.php on line 136
+[17-Jul-2020 07:17:26 UTC] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in /home/myshovin/public_html/application/controllers/Reseller.php on line 136
+[17-Jul-2020 07:17:26 UTC] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in /home/myshovin/public_html/application/controllers/Reseller.php on line 136
+[17-Jul-2020 07:17:26 UTC] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in /home/myshovin/public_html/application/controllers/Reseller.php on line 136
+[17-Jul-2020 07:17:26 UTC] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in /home/myshovin/public_html/application/controllers/Reseller.php on line 136
+[17-Jul-2020 07:17:26 UTC] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in /home/myshovin/public_html/application/controllers/Reseller.php on line 136
+[17-Jul-2020 07:17:26 UTC] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in /home/myshovin/public_html/application/controllers/Reseller.php on line 136
+[17-Jul-2020 07:17:26 UTC] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in /home/myshovin/public_html/application/controllers/Reseller.php on line 136
+[17-Jul-2020 07:17:26 UTC] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in /home/myshovin/public_html/application/controllers/Reseller.php on line 136
+[17-Jul-2020 07:17:26 UTC] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in /home/myshovin/public_html/application/controllers/Reseller.php on line 136
+[17-Jul-2020 07:17:26 UTC] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in /home/myshovin/public_html/application/controllers/Reseller.php on line 136
+[17-Jul-2020 07:17:26 UTC] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in /home/myshovin/public_html/application/controllers/Reseller.php on line 136
+[17-Jul-2020 07:17:26 UTC] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in /home/myshovin/public_html/application/controllers/Reseller.php on line 136
+[17-Jul-2020 07:17:32 UTC] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in /home/myshovin/public_html/application/controllers/Reseller.php on line 136
+[17-Jul-2020 07:17:36 UTC] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in /home/myshovin/public_html/application/controllers/Reseller.php on line 136
+[17-Jul-2020 07:18:56 UTC] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in /home/myshovin/public_html/application/controllers/Reseller.php on line 136
+[17-Jul-2020 07:18:58 UTC] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in /home/myshovin/public_html/application/controllers/Reseller.php on line 136
+[19-Jul-2020 17:45:51 UTC] PHP Parse error:  syntax error, unexpected '$this' (T_VARIABLE) in /home/myshovin/public_html/application/controllers/ChatController.php on line 181
+[20-Jul-2020 05:10:15 UTC] PHP Fatal error:  Cannot redeclare ChatController::mailer() in /home/myshovin/public_html/application/controllers/ChatController.php on line 338
+[20-Jul-2020 05:52:07 UTC] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC) in /home/myshovin/public_html/application/controllers/ChatController.php on line 314
+[22-Jul-2020 15:45:00 UTC] PHP Parse error:  syntax error, unexpected '=>' (T_DOUBLE_ARROW) in /home/myshovin/public_html/application/controllers/Produk.php on line 285
+[22-Jul-2020 15:45:15 UTC] PHP Parse error:  syntax error, unexpected '=>' (T_DOUBLE_ARROW) in /home/myshovin/public_html/application/controllers/Produk.php on line 285
+[23-Jul-2020 07:29:13 UTC] PHP Parse error:  syntax error, unexpected 'Kamu’' (T_STRING) in /home/myshovin/public_html/application/controllers/ChatController.php on line 291
+[23-Jul-2020 07:30:02 UTC] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC) in /home/myshovin/public_html/application/controllers/ChatController.php on line 306
+[23-Jul-2020 07:35:15 UTC] PHP Parse error:  syntax error, unexpected ')' in /home/myshovin/public_html/application/controllers/ChatController.php on line 299
+[23-Jul-2020 07:44:06 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/myshovin/public_html/application/controllers/ChatController.php on line 303
+[23-Jul-2020 07:45:51 UTC] PHP Parse error:  syntax error, unexpected '$config' (T_VARIABLE) in /home/myshovin/public_html/application/controllers/ChatController.php on line 280
+[23-Jul-2020 08:41:30 UTC] PHP Parse error:  syntax error, unexpected '=' in /home/myshovin/public_html/application/controllers/ChatController.php on line 278
+[23-Jul-2020 08:42:17 UTC] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in /home/myshovin/public_html/application/controllers/ChatController.php on line 320
+[23-Jul-2020 08:43:56 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/myshovin/public_html/application/controllers/ChatController.php on line 321
+[26-Jul-2020 07:34:38 UTC] PHP Parse error:  syntax error, unexpected end of file, expecting ')' in /home/myshovin/public_html/application/controllers/Reseller.php on line 320
+[26-Jul-2020 09:24:58 UTC] PHP Fatal error:  Cannot use isset() on the result of a function call (you can use "null !== func()" instead) in /home/myshovin/public_html/application/controllers/Produk.php on line 161
+[26-Jul-2020 09:26:13 UTC] PHP Fatal error:  Cannot use isset() on the result of a function call (you can use "null !== func()" instead) in /home/myshovin/public_html/application/controllers/Produk.php on line 161
+[26-Jul-2020 09:26:29 UTC] PHP Fatal error:  Cannot use isset() on the result of a function call (you can use "null !== func()" instead) in /home/myshovin/public_html/application/controllers/Produk.php on line 161
+[26-Jul-2020 09:26:31 UTC] PHP Fatal error:  Cannot use isset() on the result of a function call (you can use "null !== func()" instead) in /home/myshovin/public_html/application/controllers/Produk.php on line 161
+[26-Jul-2020 09:26:32 UTC] PHP Fatal error:  Cannot use isset() on the result of a function call (you can use "null !== func()" instead) in /home/myshovin/public_html/application/controllers/Produk.php on line 161
+[26-Jul-2020 09:26:33 UTC] PHP Fatal error:  Cannot use isset() on the result of a function call (you can use "null !== func()" instead) in /home/myshovin/public_html/application/controllers/Produk.php on line 161
+[26-Jul-2020 09:26:33 UTC] PHP Fatal error:  Cannot use isset() on the result of a function call (you can use "null !== func()" instead) in /home/myshovin/public_html/application/controllers/Produk.php on line 161
+[26-Jul-2020 09:27:05 UTC] PHP Fatal error:  Cannot use isset() on the result of a function call (you can use "null !== func()" instead) in /home/myshovin/public_html/application/controllers/Produk.php on line 161
+[26-Jul-2020 09:27:18 UTC] PHP Fatal error:  Cannot use isset() on the result of a function call (you can use "null !== func()" instead) in /home/myshovin/public_html/application/controllers/Produk.php on line 161
+[26-Jul-2020 09:27:20 UTC] PHP Fatal error:  Cannot use isset() on the result of a function call (you can use "null !== func()" instead) in /home/myshovin/public_html/application/controllers/Produk.php on line 161
+[26-Jul-2020 09:27:25 UTC] PHP Fatal error:  Cannot use isset() on the result of a function call (you can use "null !== func()" instead) in /home/myshovin/public_html/application/controllers/Produk.php on line 161
+[26-Jul-2020 11:05:11 UTC] PHP Parse error:  syntax error, unexpected ';' in /home/myshovin/public_html/application/controllers/Reseller.php on line 1716
+[26-Jul-2020 11:05:12 UTC] PHP Parse error:  syntax error, unexpected ';' in /home/myshovin/public_html/application/controllers/Reseller.php on line 1716
+[26-Jul-2020 11:05:12 UTC] PHP Parse error:  syntax error, unexpected ';' in /home/myshovin/public_html/application/controllers/Reseller.php on line 1716
+[26-Jul-2020 11:05:12 UTC] PHP Parse error:  syntax error, unexpected ';' in /home/myshovin/public_html/application/controllers/Reseller.php on line 1716
+[26-Jul-2020 11:05:12 UTC] PHP Parse error:  syntax error, unexpected ';' in /home/myshovin/public_html/application/controllers/Reseller.php on line 1716
+[26-Jul-2020 11:05:12 UTC] PHP Parse error:  syntax error, unexpected ';' in /home/myshovin/public_html/application/controllers/Reseller.php on line 1716
+[26-Jul-2020 11:05:12 UTC] PHP Parse error:  syntax error, unexpected ';' in /home/myshovin/public_html/application/controllers/Reseller.php on line 1716
+[26-Jul-2020 11:05:12 UTC] PHP Parse error:  syntax error, unexpected ';' in /home/myshovin/public_html/application/controllers/Reseller.php on line 1716
+[26-Jul-2020 11:05:12 UTC] PHP Parse error:  syntax error, unexpected ';' in /home/myshovin/public_html/application/controllers/Reseller.php on line 1716
+[26-Jul-2020 11:05:12 UTC] PHP Parse error:  syntax error, unexpected ';' in /home/myshovin/public_html/application/controllers/Reseller.php on line 1716
+[26-Jul-2020 11:05:12 UTC] PHP Parse error:  syntax error, unexpected ';' in /home/myshovin/public_html/application/controllers/Reseller.php on line 1716
+[26-Jul-2020 11:05:12 UTC] PHP Parse error:  syntax error, unexpected ';' in /home/myshovin/public_html/application/controllers/Reseller.php on line 1716
+[26-Jul-2020 11:13:41 UTC] PHP Parse error:  syntax error, unexpected ';' in /home/myshovin/public_html/application/controllers/Reseller.php on line 1716
+[26-Jul-2020 11:13:41 UTC] PHP Parse error:  syntax error, unexpected ';' in /home/myshovin/public_html/application/controllers/Reseller.php on line 1716
+[26-Jul-2020 11:13:41 UTC] PHP Parse error:  syntax error, unexpected ';' in /home/myshovin/public_html/application/controllers/Reseller.php on line 1716
+[26-Jul-2020 13:29:03 UTC] PHP Fatal error:  Cannot use isset() on the result of a function call (you can use "null !== func()" instead) in /home/myshovin/public_html/application/controllers/Produk.php on line 561
+[26-Jul-2020 13:29:08 UTC] PHP Fatal error:  Cannot use isset() on the result of a function call (you can use "null !== func()" instead) in /home/myshovin/public_html/application/controllers/Produk.php on line 561

@@ -1,0 +1,72 @@
+html, body {
+    background-color: #f1f1f1;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 14px;
+}
+
+hr {
+    opacity: 0.2;
+}
+
+button {
+    cursor: pointer;
+}
+
+.wrapper {
+    background-color: #ffffff;
+    border: 1px solid #f1f1f1;
+    box-shadow: 1px 3px 5px #dddddd;
+    margin: 50px auto;
+    padding: 30px;
+    position: relative;
+    width: 350px;
+}
+
+.wrapper h2 {
+    color: rgba(229, 35, 38, 1);
+}
+
+.wrapper form div {
+    margin: 15px 0;
+}
+
+.wrapper form div label {
+    color: #444444;
+    font-size: 12px;
+}
+
+.wrapper form div input {
+    background-color: #fafafa;
+    border: 1px solid #dddddd;
+    border-radius: 4px;
+    color: #666666;
+    margin: 6px 0;
+    padding: 8px 12px;
+    width: calc(100% - 20px);
+}
+
+.wrapper form div input:active,
+.wrapper form div input:visited,
+.wrapper form div input:hover,
+.wrapper form div input:focus {
+    border-color: rgba(229, 35, 38, 0.8);
+}
+
+.wrapper form div button {
+    background-color: rgba(229, 35, 38, 1);
+    border: 1px solid transparent;
+    border-radius: 4px;
+    color: #ffffff;
+    padding: 8px 12px;
+}
+
+.wrapper form div button:hover {
+    background-color: rgba(183, 32, 37, 1);
+}
+
+@media only screen and (max-width: 601px) {
+    .wrapper {
+        padding: 20px;
+        width: calc(100% - 50px);
+    }
+}
